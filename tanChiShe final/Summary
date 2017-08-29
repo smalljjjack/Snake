@@ -1,0 +1,4 @@
+The final version of y snake game.
+I finished this game in spring of 2017, it took me about one week. I create all elements for the game and adjusted them make it work well.
+The snake could moved by player's control and when it hits the wall or eats itself, the game is over. Eat egg could gain scores, there is 
+unlimit for the game, the play could earn as high as they can.

@@ -1,0 +1,11 @@
+Snake, Tank war, and snake is a series projects I did for learning and geting more familiar with Java. Through the three projects, 
+I got much more comprehensive understanding of Java programming and object-oriented programming.
+
+By developing the snake game, I did learned huge of what is object-oriented programming. In the first stage, I needed consider what elements
+do I should do for the game and why they are necerssary. After I decided all objects, I though a lot about what kinds of functions is necessary 
+for each objects. For example, in order to make the snake move, I wrote a suitable move algorithm and in order to create the egg I did 
+a method to make them randomly appear. 
+Additionally, through this experience, I got much more familiar with the Java API. I used a list to sort the snake's body, I used action listener
+to control the snake's movement and the player's commands. In order to finish this project, I did use more than 10 packages and define 
+a lot of method by myself.
+
